@@ -1,0 +1,28 @@
+﻿La génération a démarré 05/02/2021 16:53:37.
+     1>Projet "C:\Users\33601\Documents\Visual Studio 2012\Projects\projet_vrml\projet_vrml\projet_vrml.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Prog.cpp
+         Prog.cpp
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(148): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(149): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(150): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(151): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(152): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(153): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(154): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(155): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(156): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(157): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(158): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\33601\documents\visual studio 2012\projects\projet_vrml\projet_vrml\prog.cpp(159): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\projet_vrml.res" projet_vrml.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\33601\Documents\Visual Studio 2012\Projects\projet_vrml\Debug\projet_vrml.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\33601\Documents\Visual Studio 2012\Projects\projet_vrml\Debug\projet_vrml.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\33601\Documents\Visual Studio 2012\Projects\projet_vrml\Debug\projet_vrml.lib" /MACHINE:X86 Debug\projet_vrml.res
+         Debug\Prog.obj
+         projet_vrml.vcxproj -> C:\Users\33601\Documents\Visual Studio 2012\Projects\projet_vrml\Debug\projet_vrml.exe
+     1>Génération du projet "C:\Users\33601\Documents\Visual Studio 2012\Projects\projet_vrml\projet_vrml\projet_vrml.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.53

@@ -1,0 +1,36 @@
+#VRML V2.0 utf8 
+Group { 
+children [
+DEF objet1 Transform {
+translation 0 0 0
+rotation 1 0 0 0
+children Shape {
+appearance Appearance {
+texture ImageTexture { url ".\textures\<aucune>" 
+ }
+}
+geometry Box{
+size 1.0 1.0 1.0 
+}
+}
+},
+SpotLight{
+ambientIntensity 0 
+attenuation 1 0 0 
+beamWidth 1.570796 
+color 1 0 0 
+cutOffAngle 0.785398 
+direction 0 0 -1
+intensity 1 
+location 0 0 2 
+on TRUE 
+radius 100 
+},
+] }
+
+ Inline{
+url "axes.wrl" }
+] }
+
+ Inline{
+url "axes.wrl" }
